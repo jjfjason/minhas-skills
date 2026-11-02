@@ -1,0 +1,2 @@
+# Programas de linha de comando instalados via npm, um por linha
+agent-browser

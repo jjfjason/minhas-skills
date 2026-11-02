@@ -1,0 +1,2 @@
+# Plugins do Claude Code, um por linha:  marketplace(repositório-github)   plugin@marketplace
+mksglu/context-mode   context-mode@context-mode

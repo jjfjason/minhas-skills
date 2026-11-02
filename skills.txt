@@ -1,0 +1,10 @@
+# Uma skill por linha:  repositório-github   pasta-da-skill-no-repositório   nome-da-skill
+# Linhas começando com # são ignoradas.
+heygen-com/hyperframes            skills/hyperframes                hyperframes
+vercel-labs/skills                skills/find-skills                find-skills
+vercel-labs/agent-browser         skills/agent-browser              agent-browser
+mattpocock/skills                 skills/productivity/grilling      grilling
+leonxlnx/taste-skill              skills/taste-skill                design-taste-frontend
+debpalash/VoiceStudio             skills/voicestudio                voicestudio
+debpalash/VoiceStudio             skills/voicestudio-maintainer     voicestudio-maintainer
+cloudflare/security-audit-skill   skills/security-audit             security-audit
